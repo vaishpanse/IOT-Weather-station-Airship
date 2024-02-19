@@ -70,5 +70,17 @@ GND - GND
 
 5.Give power supply to Arduino and upload the code.
 
+### Schematic:
+
+![Schematic](https://github.com/vaishpanse/IOT-Weather-station-Airship/assets/140835509/6f808ca7-b280-491c-b58b-8816fc60f67f)
+
+### Future scope:
+● This weather monitoring system will monitor the temperature and humidity of the surrounding area.<br>
+● This Arduino weather station system can be used to monitor the temperature of remote areas where you can not survive or stay. So, this weather station using arduino
+ can help there.<br>
+● This system can be used for measuring atmospheric conditions to provide information for weather forecasts and to study the weather and climate.<br>
+● A simple home weather device can help you better maintain your home through the changing seasons and can help you safeguard your home from any kind of weather damage.<br>
+● Monitoring of weather’s condition would help farmers with the help of a weather monitoring system.
+
    
 
