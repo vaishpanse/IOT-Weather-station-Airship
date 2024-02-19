@@ -39,3 +39,36 @@ A 16×2 LCD display is an electronic device that is used to display data and mes
 every character will be made with 5×8 (40) Pixel Dots.
 
    ![LCD](https://github.com/vaishpanse/IOT-Weather-station-Airship/assets/140835509/316115d9-4ffe-4d41-8700-9e5edaf635d4)
+
+### Procedure:
+1. Do all the connections as mentioned below:<br>
+● LCD Connection:<br>
+Pin 1(VSS) - GND <br>
+Pin 2(VDD) - 5V <br>
+Pin 3(Vo) - D8 pin of arduino <br>
+Pin 4(RS) - D7 pin of arduino <br>
+Pin 5(RW) - GND <br>
+Pin 6(E) - D6 <br>
+Pin 7-10 - No connection <br>
+Pin 11 - D5 <br>
+Pin 12 - D4 <br>
+Pin 13 - D3 <br>
+Pin 14 - D2 <br>
+Pin 15 - 5V <br>
+Pin 16 - GND 
+
+● DHT22 Connection:<br>
+VCC - 5V <br>
+DATA - D9 pin of Ardunio <br>
+GND - GND
+
+2.For writing code Download Arduino IDE
+
+3. Download libraries of LCD and DHT
+
+4. After connecting all the components correctly write a code on IDE
+
+5. Give power supply to Arduino and upload the code.
+
+   
+
