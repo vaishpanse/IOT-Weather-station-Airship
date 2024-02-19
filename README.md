@@ -64,11 +64,11 @@ GND - GND
 
 2.For writing code Download Arduino IDE
 
-3. Download libraries of LCD and DHT
+3.Download libraries of LCD and DHT
 
-4. After connecting all the components correctly write a code on IDE
+4.After connecting all the components correctly write a code on IDE
 
-5. Give power supply to Arduino and upload the code.
+5.Give power supply to Arduino and upload the code.
 
    
 
