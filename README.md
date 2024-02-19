@@ -1,6 +1,11 @@
 # IOT-Weather-station-Airship
 An IoT weather station airship is a type of instrument equipped with sensors and communication technology to collect meteorological data and transmit it in real-time. These airships are designed to be deployed into the atmosphere to gather information such as temperature, humidity, air pressure, wind speed, and air quality at various altitudes.
 
+### Introduction:
+Every person's existence involves a great deal of weather monitoring.Numerous problems arise as a result of the state of the environment in a number of industries, including construction, agriculture, and more. However, the quantifiable influence mostly happens in farming and business. Farmers might benefit from weather monitoring with the use of a weather monitoring system. A weather station is a technological breakthrough that uses amazing devices and sensors to collect data related to the weather.The objective of this project is to demonstrate how the Arduino microcontroller platform can be used to measure the temperature and humidity of your environment using a DHT22 sensor display. For this project, we will
+be using the 16×2 LCD display module to display the temperature and humidity readings
+gathered from the environment using the DHT22 temperature and humidity sensor.
+
 ### Components Required:
 1. Arduino Uno <br>
 2. DHT22 Temperature and humidity sensor< br>
